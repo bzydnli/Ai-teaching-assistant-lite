@@ -1,12 +1,14 @@
-## Why This Project?
-
-This project is a small prototype related to my master's work on AI-supported teaching systems.  
-I built it to practice and demonstrate a clear end-to-end RAG workflow without hiding the core logic behind large frameworks.
 # AI Teaching Assistant Lite
 
 A small source-grounded AI application that turns course material into a simple teaching workflow.
 
-The project was built as a minimal RAG application: the retrieval and generation steps are intentionally kept explicit so the full flow is easy to understand, test, and explain.
+![AI Teaching Assistant demo](docs/demo-overview.jpg)
+
+## Why This Project?
+
+This project is a small prototype related to my master's work on AI-supported teaching systems.
+
+I built it to practice and demonstrate a clear end-to-end RAG workflow without hiding the core logic behind large frameworks.
 
 ## What It Does
 
