@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf
+psycopg[binary]
+pgvector
+openai
+pydantic-settings
+streamlit
+requests
