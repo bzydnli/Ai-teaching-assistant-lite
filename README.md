@@ -4,9 +4,9 @@ A small source-grounded AI application that turns course material into a simple 
 
 ## Demo
 
-![AI Teaching Assistant Overview](demo-overview.png)
+![AI Teaching Assistant Overview](docs/demo-overview.png)
 
-![Source-Grounded Topic Teaching](demo-teach.png)
+![Source-Grounded Topic Teaching](docs/demo-teach.png)
 
 ## Why This Project?
 
